@@ -57,3 +57,6 @@ Start from [this point](https://www.gatsbyjs.org/docs/sourcing-from-netlify-cms/
 [![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/thomaswangio/gatsby-personal-starter-blog)
 
 <!-- AUTO-GENERATED-CONTENT:END -->
+
+## Deploy status
+[![Netlify Status](https://api.netlify.com/api/v1/badges/92cf7208-0fd4-4860-adcc-54e996791441/deploy-status)](https://app.netlify.com/sites/afrobard/deploys)
